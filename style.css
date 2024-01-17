@@ -132,7 +132,7 @@ l       ine-height: 26px; /* 162.5% */
         max-width:1250px ;
         margin-top:50px;
         /* border: 2px solid blue; */
-        min-height: 400px;
+        /* min-height: 400px; */
         display: flex;
 
     }
@@ -161,6 +161,9 @@ l       ine-height: 26px; /* 162.5% */
         font-weight: 800;
         line-height: normal;
     }
+    .dolor{
+        margin-top: 20px;
+    }
 
 
     .btn{
@@ -171,7 +174,7 @@ l       ine-height: 26px; /* 162.5% */
         background: #FF5400;
         border: none;
         color: white;
-        margin-top: 40px;
+        margin-top: 5px;
     }
 
 
@@ -184,7 +187,7 @@ l       ine-height: 26px; /* 162.5% */
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    margin-top: 50px;
+    margin-top: 10px;
 
     
 }
@@ -451,6 +454,7 @@ background: rgba(41, 206, 246, 0.05);
     column-gap: 10px;
     justify-content: center;
     text-align: center;
+    /* display: flex; */
 }
 
 .footer-logo img{
